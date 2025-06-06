@@ -67,5 +67,3 @@ mean_propA=mean(propA)
 se_propA=sd(propA)
 mean_propA
 se_propA
-plot(density(propA))
-abline(v=mean(propA))
